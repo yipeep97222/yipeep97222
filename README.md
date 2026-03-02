@@ -111,7 +111,7 @@ Feel free to reach out to me!
 
 # Fun Facts
 
-- I prefer to optimize every thread in my workflow.  
+- I prefer to optimize every part of my code.  
 - Simplicity > Complexity — why waste time on things that don't matter?  
 - Minimalist OS setups — because I like my environment clean and focused.
 
