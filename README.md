@@ -18,10 +18,10 @@
 
 # About Me
 
-Username: yipeep97222
-Interests: Gaming, Linux, Open Source, Customizing Systems, and Boosting Performance
-Favorite OS: Fedora + Hyprland, set up just the way I like it
-Philosophy: "Linux is all about making things your own – if you dream it, you can build it."
+- Username: yipeep97222
+- Interests: Gaming, Linux, Open Source, Customizing Systems, and Boosting Performance
+- Favorite OS: Fedora + Hyprland, set up just the way I like it
+- Philosophy: "Linux is all about making things your own – if you dream it, you can build it."
 
 ### Operating System Experience
 
