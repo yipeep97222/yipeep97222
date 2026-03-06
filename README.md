@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Giovani 👋
+# Hello, I'm yipeep97222 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Linux+Enthusiast;Coding+for+Fun;CLI+Developer;Fedora+%2B+Hyprland+User;Compiler+%26+Crypto+Explorer" />
 
@@ -26,7 +26,7 @@
 
 # About Me
 
-Hello! I'm **Giovani**, a passionate coder who loves programming for fun.  
+Hello! I'm **yipeep97222**, a passionate coder who loves programming for fun.  
 I enjoy exploring Linux by customizing my environment, optimizing system performance, and building setups customized based on my requirements.  
 I also experiment with compilers to see how code can be transformed, optimized, and protected.  
 For me, coding is not just work — it's a playground for learning, building, and discovering new possibilities.
@@ -123,7 +123,7 @@ I explore **practical cryptography** and lightweight encryption techniques for f
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nashzhee17&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=yipeep97222&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -166,7 +166,7 @@ Telegram: [@test](https://t.me/test)
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nashzhee17&color=00ffaa&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=yipeep97222&color=00ffaa&style=flat-square)
 
 **Customized without limits**
 
