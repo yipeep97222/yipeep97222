@@ -123,7 +123,7 @@ I explore **practical cryptography** and lightweight encryption techniques for f
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yipeep97222&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=yipeep97222&theme=tokyonight&hide_border=true&border_radius=6)
 
 </div>
 
